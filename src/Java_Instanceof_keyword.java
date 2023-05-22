@@ -1,4 +1,11 @@
+/* instanceof is a binary operator we use to test if an object is of a given type.
+The result of the operation is either true or false. It's also known as a type comparison operator because it compares the instance with the type. 
+Before casting an unknown object, the instanceof check should always be used. */
 
+
+
+/* equals() it (the String s )ran it's own logic to determine that it's the same object. In the case of String, it will compare it character by character.
+instanceof is something else entirely, and will tell you if an object is an instance of a certain type of object, e.g. "foo" instanceof String is true. */
 
 
 import java.util.*;
