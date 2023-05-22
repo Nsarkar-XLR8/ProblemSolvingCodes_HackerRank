@@ -1,3 +1,7 @@
+/* The java.util.Currency class represents a currency.Following are the important points about Currency − Currencies are identified by their ISO 4217 currency codes. 
+The class is designed so that there's never more than one Currency instance for any given currency, this is the reason behind no public constructor. */
+
+
 import java.util.*;
 import java.text.*;
 
