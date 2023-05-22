@@ -1,3 +1,6 @@
+/* If else statement is a condition statement that is used in the execution of a computer program in pre-defined rules.
+The if-else statement helps you to run a specific block of a program if the condition is true or else, it will check other conditions. */
+
 import java.util.*;
 
 public class Java_If_Else {
