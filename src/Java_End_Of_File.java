@@ -1,3 +1,7 @@
+/* End of file (or EOF) means there are no more data that can be read from a data source.
+To check if a specific type of input is available or not you can use the hasNext() method of the Scanner class. */
+
+
 import java.util.Scanner;
 
 
