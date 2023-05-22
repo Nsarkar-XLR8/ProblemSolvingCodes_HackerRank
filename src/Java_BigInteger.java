@@ -1,3 +1,7 @@
+/* Biginteger class in java is used for mathematical operations that require integer values larger than what primitive data types can store.
+A biginteger class represents immutable arbitrary-precision integers. */
+
+
 import java.math.BigInteger;
 import java.util.Scanner;
 
