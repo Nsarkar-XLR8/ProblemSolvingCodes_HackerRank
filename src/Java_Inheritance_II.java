@@ -1,3 +1,8 @@
+/* Inheritance is one of the main features of object-oriented programming in CPP, allowing us to inherit another class's properties.
+There are mainly five types of inheritance in c++: single inheritance, multiple inheritance, multilevel inheritance, 
+hybrid inheritance, and hierarchical inheritance. */
+
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
