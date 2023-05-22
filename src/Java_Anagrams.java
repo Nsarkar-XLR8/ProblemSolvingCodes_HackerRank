@@ -1,3 +1,7 @@
+/*Two strings are said to be anagrams if they make a meaningful word by rearranging or shuffling the letters of the string.
+In other words, we can say that two strings are anagrams if they contain the same characters but in a different order. */
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 
