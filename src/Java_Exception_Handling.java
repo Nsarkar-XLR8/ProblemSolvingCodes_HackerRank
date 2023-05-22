@@ -1,4 +1,5 @@
-
+/* Java Exception handling framework is used to handle runtime errors only.
+The compile-time errors have to be fixed by the developer writing the code else the program won't execute. */
 
 import java.io.*;
 import java.util.*;
